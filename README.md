@@ -10,7 +10,7 @@ Do this inside your work directory.
 
 1- Create virtual env: virtualenv env
 
-2- Enter in the venv: source venv/bin/activate
+2- Enter in the venv: source env/bin/activate
 
 3- Install requirements: pip3 install flask flask-sqlalchemy
 
