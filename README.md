@@ -6,10 +6,16 @@ Following this [youtube tutorial](https://www.youtube.com/watch?v=Z1RJmh_OqeA).
 
 # instructions
 
-1- Enter in the venv: source venv/bin/activate
+Do this inside your work directory.
 
-2- Run the app: python3 app.py
+1- Create virtual env: virtualenv env
 
-3- Open in the browser: localhost:5000
+2- Enter in the venv: source venv/bin/activate
 
-4- Have fun
+3- Install requirements: pip3 install flask flask-sqlalchemy
+
+3- Run the app: python3 app.py
+
+4- Open in the browser: localhost:5000
+
+5- Have fun
